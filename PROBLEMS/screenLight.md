@@ -1,4 +1,4 @@
-*couldn't adjust screen light in win10(maybe it works in other wins)
+* couldn't adjust screen light in win10(maybe it works in other wins)
 
 Alim 2016.04.23
 ---
